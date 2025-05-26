@@ -14,20 +14,26 @@
   To secure a challenging software development role where I can apply my programming skills, enhance my problem-solving abilities, and contribute to building efficient, scalable, and user-focused software solutions in a collaborative environment.
 
 ---
+##🚀 Projects
+###🔹 Transport Management System
+Tools: PHP, MySQL, HTML, CSS, JavaScript
+Developed a web-based system to manage vehicle logistics and bookings. Implemented secure role-based access for admins, drivers, and customers, real-time transport schedule tracking, and automated invoice generation.
 
-## 🚀 Projects
+###🔹 Full-Stack Blogging Platform
+Tools: MongoDB, Express.js, React.js, Node.js, JWT, CSS
+Built a MERN stack blogging platform with full CRUD functionality and secure user authentication using JWT. Designed a responsive and intuitive UI and developed RESTful APIs to manage content efficiently.
 
-### 🔹 Transport Management System
-*Tools:* PHP, MySQL, HTML, CSS, JavaScript  
-Developed a web-based system for managing vehicle logistics and bookings, with real-time schedule tracking, automated invoicing, and multi-role secure login.
+###🔹 LifeLink – Role-Based Donor Management System
+Tools: MongoDB, Express.js, React.js, Node.js, JWT, CSS, Cloudinary, Nodemailer
+Developed a secure donor management app with custom dashboards for donors, seekers, and hospitals. Integrated JWT authentication, health report tracking with 30-day expiry alerts, and automated email reminders. Created a responsive UI with smooth navigation and built REST APIs for hospitals, donation requests, and users.
 
-### 🔹 Full-Stack Blogging Platform
-*Tools:* MongoDB, Express.js, React.js, Node.js, JWT, CSS  
-Built a secure MERN blog platform with user authentication, full CRUD, RESTful APIs, and a responsive UI.
+###🔹 Medication Reminder & Adherence System (Android App)
+Tools: Java/Kotlin, Android SDK, SQLite, MPAndroidChart
+Designed a mobile application that sends timely medication alerts based on dosage time and schedule. Includes weekly adherence reports with data visualizations. Notifications are triggered via alarm manager and persistent storage is handled using SQLite.
 
-### 🔹 LifeLink – Role-Based Donor Management System
-*Tools:* MongoDB, Express.js, React.js, Node.js, CSS, JWT, Cloudinary, Nodemailer  
-Secure MERN app with custom dashboards for donors, seekers, and hospitals. Features health report tracking, expiry alerts, and automated email reminders.
+###🔹 Face Recognition System
+Tools: Python, OpenCV, face_recognition, NumPy
+Created a real-time face recognition system using webcam input. Recognizes and labels known individuals by comparing live face encodings with stored data. Designed for security use-cases and integrated visual feedback via OpenCV overlays.
 
 ---
 
