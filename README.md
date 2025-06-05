@@ -41,11 +41,11 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 ## 🛠️ Skills
 
 - **Languages:** Java, Python, R, C  
-- **Web Tech:** Node.js, Express.js, React, HTML, CSS, JavaScript, TypeScript, PHP
-  
-- **Databases:** MySQL, MongoDB  
+- **Web Tech:** Node.js, Express.js, React, HTML, CSS, JavaScript, TypeScript, PHP, Tailwind Css, Next.js, Typesrcipt, Bootstrap
+- **App Tech:** React Native, Flutter,Dart,Java,Kotlin 
+- **Databases:** MySQL, MongoDB, Firebase
 - **Specialized:** Full-Stack & Mobile App Development  
-- **Tools:** AWS, Canva, VS Code, Git, Copilot, Tableau, Vercel, V0, ChatGPT
+- **Tools:** AWS, Canva, VS Code, Git, Copilot, Tableau, Vercel, V0, ChatGPT, Notebool LLM, Expo Go
 
 ---
 
