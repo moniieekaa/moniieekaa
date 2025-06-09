@@ -4,7 +4,6 @@
 </p>
 
 ## 👩‍💻 About Me
-
 - 🎓 **B.Tech, SRKR Engineering College** (2022–2026)  
   GPA: 9.38/10.00 | Bhimavaram, India
 
