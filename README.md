@@ -11,6 +11,7 @@
 
   To secure a challenging software development role where I can apply my programming skills, enhance my problem-solving abilities, and contribute to building efficient, scalable, and user-focused software solutions in a collaborative environment. 
 
+
 ---
 ## 🚀 Projects
 
