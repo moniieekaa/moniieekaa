@@ -86,7 +86,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moniieekaa&show_icons=true&theme=radical" alt="Mounika's GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moniieekaa&theme=radical" alt="GitHub Streak" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moniieekaa&theme=radical" alt="GitHub Streak" height="150"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniieekaa&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
