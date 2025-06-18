@@ -14,7 +14,6 @@
 ---
 ## 🚀 Projects
 
-
 ### 🔹 Transport Management System
 Tools: PHP, MySQL, HTML, CSS, JavaScript
 Developed a web-based system to manage vehicle logistics and bookings. Implemented secure role-based access for admins,  drivers, and customers, real-time transport schedule tracking, and automated invoice generation.    
