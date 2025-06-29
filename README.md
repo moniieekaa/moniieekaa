@@ -48,6 +48,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 
 ---
 
+
 ## 🎓 Certifications
 
 - Cisco Networking Academy Course
