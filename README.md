@@ -36,6 +36,7 @@ Designed a mobile application that sends timely medication alerts based on dosag
 Tools: Python, OpenCV, face_recognition, NumPy
 Created a real-time face recognition system using webcam input. Recognizes and labels known individuals by comparing live face encodings with stored data. Designed for security use-cases and integrated visual feedback via OpenCV overlays.
 
+
 ---
 
 ## 🛠️ Skills
