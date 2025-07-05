@@ -49,7 +49,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - **Tools:** AWS, Canva, VS Code, Git, Copilot, Tableau, Vercel, V0, ChatGPT, Notebook LLM, Expo Go
  
 ---
-
+ 
 
 ## 🎓 Certifications
 
