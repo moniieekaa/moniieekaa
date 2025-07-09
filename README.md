@@ -22,7 +22,7 @@ Developed a web-based system to manage vehicle logistics and bookings. Implement
 ### 🔹 Full-Stack Blogging Platform
 Tools: MongoDB, Express.js, React.js, Node.js, JWT, CSS
 Built a MERN stack blogging platform with full CRUD functionality and secure user authentication using JWT. Designed a responsive and intuitive UI and developed RESTful APIs to manage content efficiently.
-   
+    
 ### 🔹 LifeLink – Role-Based Donor Management System
 Tools: MongoDB, Express.js, React.js, Node.js, JWT, CSS, Cloudinary, Nodemailer
 Developed a secure donor management app with custom dashboards for donors, seekers, and hospitals. Integrated JWT authentication, health report tracking with 30-day expiry alerts, and automated email reminders. Created a responsive UI with smooth navigation and built REST APIs for hospitals, donation requests, and users.
