@@ -26,7 +26,7 @@ Built a MERN stack blogging platform with full CRUD functionality and secure use
 ### 🔹 LifeLink – Role-Based Donor Management System
 Tools: MongoDB, Express.js, React.js, Node.js, JWT, CSS, Cloudinary, Nodemailer
 Developed a secure donor management app with custom dashboards for donors, seekers, and hospitals. Integrated JWT authentication, health report tracking with 30-day expiry alerts, and automated email reminders. Created a responsive UI with smooth navigation and built REST APIs for hospitals, donation requests, and users.
- 
+  
 ### 🔹 Medication Reminder & Adherence System (Android App)
 Tools: Java/Kotlin, Android SDK, SQLite, MPAndroidChart
 Designed a mobile application that sends timely medication alerts based on dosage time and schedule. Includes weekly adherence reports with data visualizations. Notifications are triggered via alarm manager and persistent storage is handled using SQLite.
