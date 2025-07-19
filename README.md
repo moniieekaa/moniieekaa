@@ -12,7 +12,7 @@
 -    
   To secure a challenging software development role where I can apply my programming skills, enhance my problem-solving abilities, and contribute to building efficient, scalable, and user-focused software solutions in a collaborative environment. 
  
-----
+---
 ## 🚀 Projects
   
 ### 🔹 Transport Management System
@@ -35,7 +35,7 @@ Designed a mobile application that sends timely medication alerts based on dosag
 Tools: Python, OpenCV, face_recognition, NumPy
 Created a real-time face recognition system using webcam input. Recognizes and labels known individuals by comparing live face encodings with stored data. Designed for security use-cases and integrated visual feedback via OpenCV overlays.
 
-----
+---
 
 ## 🛠️ Skills
 
