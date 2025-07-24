@@ -35,7 +35,7 @@ Designed a mobile application that sends timely medication alerts based on dosag
 Tools: Python, OpenCV, face_recognition, NumPy
 Created a real-time face recognition system using webcam input. Recognizes and labels known individuals by comparing live face encodings with stored data. Designed for security use-cases and integrated visual feedback via OpenCV overlays.
 
----
+----
 
 ## 🛠️ Skills
 
@@ -56,7 +56,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - Edx Verified Certification
 - Career Essentials in Generative AI (Microsoft x LinkedIn)
 - Silver Badge in Nptel Java fundamentals
----
+----
 
 ## 🏆 Achievements
 
@@ -64,7 +64,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - 🗂️ Organized SPURTHI 2K25 (National Level Technical Symposium) and PRAJWALAN 2K25 (Hackathon)  
 - 👩‍💼 Led 30+ members as Executive Body Member, ACE (Association of Computer Engineers)
 
----
+----
 
 ## 🌟 Extracurricular & Leadership
 
