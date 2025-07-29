@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Mounika Konala 👋</h1> 
 <p align="center">   
 🌱 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast | 🤝 Community Leader
-</p>  
+</p>   
  
 ## 👩‍💻 About Me    
 - 🎓 **B.Tech, SRKR Engineering College** (2022–2026)  
