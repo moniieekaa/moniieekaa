@@ -98,7 +98,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - 📱 +91 6301114320
 - 🌍 Tanuku, India
 
----
+----
  
 > _"Building the future, one line of code at a time."_ 🚀
  
