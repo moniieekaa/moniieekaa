@@ -3,7 +3,7 @@
 🌱 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast | 🤝 Community Leader
 </p>    
 
-## 👩‍💻 About Me  
+## 👩‍💻 About Me   
 - 🎓 **B.Tech, SRKR Engineering College** (2022–2026)
   GPA: 9.40/10.00 | Bhimavaram, India
      
