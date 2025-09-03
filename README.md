@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Mounika Konala 👋</h1> 
+<h1 align="center"> Hi there, I'm Mounika Konala 👋</h1>     
 <p align="center">     
 🌱 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast | 🤝 Community Leader   
 </p>       
