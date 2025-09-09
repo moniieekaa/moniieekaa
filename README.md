@@ -79,7 +79,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - 🎨 Canva enthusiast – I enjoy designing creative posters and presentations
 - 📚 Always eager to learn the next big thing in tech!
 
----
+----
 
 ## 📊 GitHub Stats
 
