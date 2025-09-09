@@ -71,7 +71,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - Organized workshops, hackathons, and technical events empowering students with practical skills and industry insights.
 - Managed end-to-end event execution, driving high participation and impact.
 
-----
+---
 
 ## 😃 Fun Facts & Hobbies
 
