@@ -46,7 +46,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - **Specialized:** Full-Stack & Mobile App Development  
 - **Tools:** AWS, Canva, VS Code, Git, Copilot, Tableau, Vercel, V0, ChatGPT, Notebook LLM, Expo Go
   
----
+----
  
 
 ## 🎓 Certifications
