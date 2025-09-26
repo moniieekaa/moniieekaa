@@ -56,7 +56,7 @@ Created a real-time face recognition system using webcam input. Recognizes and l
 - Edx Verified Certification
 - Career Essentials in Generative AI (Microsoft x LinkedIn)
 - Silver Badge in Nptel Java fundamentals
-----
+---
 
 ## 🏆 Achievements
 
